@@ -6,6 +6,7 @@ import android.support.v7.app.AppCompatActivity;
 import butterknife.ButterKnife;
 
 public class MainActivity extends AppCompatActivity {
+    //DA Bind
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
